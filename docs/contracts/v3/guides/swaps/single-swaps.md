@@ -130,7 +130,7 @@ A brief overview of the parameters:
 
 Exact Output swaps a minimum possible amount of the input token for a fixed amount of the outbound token. This is the less common swap style - but useful in a variety of circumstances.
 
-Because this example transfers in the inbound asset in anticipation of the swap - its possible that some of the inbound token will be left over after the swap is executed, which is why we pay it back to the calling address at the end of the swap.
+Because this example transfers in the inbound asset in anticipation of the swap - it is possible that some of the inbound token will be left over after the swap is executed, which is why we pay it back to the calling address at the end of the swap.
 
 ### Call the function
 
